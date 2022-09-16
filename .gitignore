@@ -1,0 +1,18 @@
+# IDE
+.idea
+.vscode
+
+# dependencies
+node_modules
+npm-debug.log*
+yarn-error.log
+yarn.lock
+package-lock.json
+.pnpm-debug.log
+
+# production
+dist
+libs
+
+# misc
+.DS_Store
